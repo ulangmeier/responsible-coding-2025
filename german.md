@@ -1,6 +1,6 @@
-# Code of Conduct für Softwareentwicklung im Zeitalter von KI
+# Responsible Coding 2025
 
-## von Urs Langmeier, Founder Langmeier Backup
+## Code of Conduct für Softwareentwicklung im Zeitalter von KI
 
 ### Präambel
 
