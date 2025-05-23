@@ -56,7 +56,8 @@ This Code of Conduct offers a set of principles to ensure that software remains 
 
 ## 📂 Languages
 
-- [🇩🇪 German version](./german.md)  
+- [🇩🇪 German version](./german.md)
+- [EN English Version](./english.md).
 
 Feel free to contribute translations or improvements.
 
