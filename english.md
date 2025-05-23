@@ -76,6 +76,12 @@ Every developer is responsible not just for code, but for its effects – on use
 
 ---
 
+### About the Author
+
+Urs Langmeier is the founder and CEO of Langmeier Backup, a Swiss software company specializing in data protection and automation. With more than two decades of experience in professional software development, he is a strong advocate for structural thinking, long-term maintainability, and ethical engineering practices in a rapidly changing industry.
+
+---
+
 ### Join Us
 
 Use it. Adapt it. Share it.  
