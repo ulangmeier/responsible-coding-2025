@@ -75,3 +75,9 @@ Jeder Entwickler ist nicht nur für den Code verantwortlich, sondern auch für d
 ## Über den Autor
 
 **Urs Langmeier** ist Gründer und CEO von Langmeier Backup, einer führenden Schweizer Softwarelösung für Datensicherheit und Backup-Automatisierung. Seit über zwei Jahrzehnten engagiert er sich für nachhaltige, wartbare Softwareentwicklung – mit einem tiefen Verständnis für Produktverantwortung, Codequalität und digitale Resilienz.
+
+## Mach mit
+
+Nutze es. Passe es an. Teile es.
+Lass uns gemeinsam Software entwickeln, hinter der wir auch 2025 noch stehen können.
+
